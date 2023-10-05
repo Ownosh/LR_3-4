@@ -1,6 +1,5 @@
 ﻿program d13;
 var
-  prograsm z13;
   a,b,c: integer;
   n:real;
   begin
